@@ -65,7 +65,7 @@
 
 ## 📂 Repository Structure
 
-```text
+```markdown
 .
 ├── frontend/               # React applications (User, Driver, Admin)
 ├── backend/
@@ -83,7 +83,7 @@
 
 ## 🔄 Data Flow Summary
 
-```text
+```markdown
 1. User triggers an SOS request from the app.
 2. Frontend sends the request to the backend API.
 3. Backend forwards it to the Dispatch Engine.
